@@ -35,6 +35,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 This site was edited by Joe Wood (aka Elegy) <br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xx_elegy_xx_?label=Elegy&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/xxelegyxx?label=Follow&style=social">
 
 ## :ticket: License 
 
