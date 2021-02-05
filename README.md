@@ -12,14 +12,14 @@ The following foles contain the assets necessary to deploy a functional website 
 
 ## Installation
 
-To use this site for your own website or your client's website, follow these steps: 
-    1. Fork this repo 
-    2. Create a local clone of your fork 
-    3. Replace images with image files relavent to your intended purpose for the site 
-    4. Replace Header, Nav, Main, Aside, and Footer sections with relavent content to your intended purpose for the site 
-    5. Properly link your image files 
-    6. Replace alternative text for image
-    7. Save and deploy to your domain
+To use this site for your own website or your client's website, follow these steps: <br>
+    1. Fork this repo <br>
+    2. Create a local clone of your fork <br>
+    3. Replace images with image files relavent to your intended purpose for the site <br>
+    4. Replace Header, Nav, Main, Aside, and Footer sections with relavent content to your intended purpose for the site <br>
+    5. Properly link your image files <br>
+    6. Replace alternative text for image<br>
+    7. Save and deploy to your domain<br>
 
 
 ## Usage 
