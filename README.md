@@ -23,9 +23,9 @@ To use this site for your own website or your client's website, follow these ste
     6. Replace alternative text for image<br>
     7. Save and deploy to your domain<br>
 
-## :camera: Screenshots
-
-![screenshot of Horiseon site](assets/images/screenshot-2.png)
+## :floppy_disk: Usage
+![screenshot of Horiseon site](assets/images/screenshot-2.png) <br>
+This site is a clean landing page and accurately represents Horiseon's core values and strategy in a well-defined way. There is a navigation row at the top of the page that makes navigating the site very easy. Three pillars of Horiseon's business model are emphasized with relevant photos in the main area of the page, and a sidebar also emphasizes other focus points that Horiseon has to offer. 
 
 ## :card_index: Credits 
 
