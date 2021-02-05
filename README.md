@@ -34,6 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## :card_index: Credits 
 
 This site was edited by Joe Wood (aka Elegy) <br>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xx_elegy_xx_?label=Elegy&style=social">
 
 ## :ticket: License 
 
