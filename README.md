@@ -23,7 +23,7 @@ To use this site for your own website or your client's website, follow these ste
     6. Replace alternative text for image<br>
     7. Save and deploy to your domain<br>
 
-## :floppy_disk: Usage 
+## :camera: Screenshots
 
 ![screenshot of Horiseon site](assets/images/screenshot-2.png)
 ## :card_index: Credits 
