@@ -26,9 +26,10 @@ To use this site for your own website or your client's website, follow these ste
 ## :camera: Screenshots
 
 ![screenshot of Horiseon site](assets/images/screenshot-2.png)
+
 ## :card_index: Credits 
 
-This site was edited by Joe Wood (aka Elegy) <br>
+This assignment was edited and submitted by Joe Wood (aka Elegy) <br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xx_elegy_xx_?label=Elegy&style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/xxelegyxx?label=Follow&style=social">
 
