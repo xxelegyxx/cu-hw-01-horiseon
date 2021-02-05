@@ -29,8 +29,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![screenshot of Horiseon site](assets/images/screenshot.png)
-
+![screenshot of Horiseon site](assets/images/screenshot-2.png)
 ## :card_index: Credits 
 
 This site was edited by Joe Wood (aka Elegy) <br>
