@@ -2,17 +2,17 @@
 
 # cu-hw-01-horiseon
 
-## Description
+## Description :newspaper:
 The following foles contain the assets necessary to deploy a functional website for Horiseon Social Solutions. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility.
 
-## Table of Contents
+## Table of Contents :bookmark_tabs:
 
 * [Installation] (#installation)
 * [Usage] (#Usage)
 * [Credits] (#Credits)
 * [License] (#License)
 
-## Installation
+## Installation :computer:
 
 To use this site for your own website or your client's website, follow these steps: <br>
     1. Fork this repo <br>
@@ -23,8 +23,7 @@ To use this site for your own website or your client's website, follow these ste
     6. Replace alternative text for image<br>
     7. Save and deploy to your domain<br>
 
-
-## Usage 
+## Usage :floppy_disk:
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
@@ -32,7 +31,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![screenshot of Horiseon site](assets/images/screenshot.png)
 
-## Credits
+## Credits :card_index:
 
 List your collaborators, if any, with links to their GitHub profiles.
 
@@ -41,6 +40,6 @@ If you used any third-party assets that require attribution, list the creators w
 If you followed tutorials, include links to those here as well.
 
 
-## License
+## License :ticket:
 
 [MIT](https://choosealicense.com/licenses/mit/)
