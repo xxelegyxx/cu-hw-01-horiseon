@@ -23,17 +23,13 @@ To use this site for your own website or your client's website, follow these ste
     6. Replace alternative text for image<br>
     7. Save and deploy to your domain<br>
 
-## :floppy_disk: Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-![screenshot of Horiseon site](assets/images/screenshot.png)
+## :floppy_disk: Usage
+![screenshot of Horiseon site](assets/images/screenshot-2.png) <br>
+This site is a clean landing page and accurately represents Horiseon's core values and strategy in a well-defined way. There is a navigation row at the top of the page that makes navigating the site very easy. Three pillars of Horiseon's business model are emphasized with relevant photos in the main area of the page, and a sidebar also emphasizes other focus points that Horiseon has to offer. 
 
 ## :card_index: Credits 
 
-This site was edited by Joe Wood (aka Elegy) <br>
+This assignment was edited and submitted by Joe Wood (aka Elegy) <br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xx_elegy_xx_?label=Elegy&style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/xxelegyxx?label=Follow&style=social">
 
