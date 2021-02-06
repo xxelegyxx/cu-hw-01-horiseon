@@ -3,7 +3,7 @@
 # cu-hw-01-horiseon
 
 ## :newspaper: Description 
-The following foles contain the assets necessary to deploy a functional website for Horiseon Social Solutions. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility.
+The following files contain the assets necessary to deploy a functional website for Horiseon Social Solutions. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility.
 
 ## :bookmark_tabs: Table of Contents 
 
